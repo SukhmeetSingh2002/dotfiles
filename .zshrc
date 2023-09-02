@@ -120,4 +120,4 @@ export NVM_DIR=~/.nvm
  [ -s "$NVM_DIR/nvm.sh" ] && . "$NVM_DIR/nvm.sh"
 
 source /home/sukhmeet/.config/broot/launcher/bash/br
-alias config='/usr/bin/git --git-dir=/home/sukhmeet/.cfg/ --work-tree=/home/sukhmeet'
+alias config='/usr/bin/git --git-dir=/home/sukhmeet/.dotfiles/ --work-tree=/home/sukhmeet'
